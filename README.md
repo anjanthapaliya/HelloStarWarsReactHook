@@ -1,2 +1,0 @@
-# HelloStarWarsReactHook
-Created with CodeSandbox
